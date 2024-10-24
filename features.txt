@@ -1,0 +1,25 @@
+
+Features included:
+
+- Basic Arithmetic Operations: Addition, subtraction, multiplication, division.
+- Trigonometric Functions: sin, cos, tan, cot values based on angle input in degrees.
+- Logarithmic Functions: Natural log (ln), logarithm base 10.
+- Exponentiation and Roots: Power functions and square roots.
+- Factorial: Computes the factorial of a number.
+- Solve Equation: Solves algebraic equations (e.g., quadratic equations) using sympy.solve.
+
+Advanced Functions: Derivatives, integrals, solving equations, etc.
+
+- Derivative: Differentiates expressions with respect to a variable.
+- Integral: Finds the indefinite integral of an expression.
+- Complex Numbers: Handles complex numbers, including calculating modulus and phase.
+- Memory Functions: Store and recall previous results.
+
+
+Required Libraries:
+math for basic mathematical functions.
+sympy for symbolic math and solving equations.
+cmath for complex number support.
+
+You can expand this further by adding more advanced mathematical functions or even graphical plotting using matplotlib.
+
